@@ -61,7 +61,7 @@ pod 'OpenSSL-Universal'
 ### Carthage
 
 ```
-github "krzyzanowskim/OpenSSL"
+github "luowei/OpenSSL"
 ```
 
 ### Authors
